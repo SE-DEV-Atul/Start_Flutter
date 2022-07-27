@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "231018346566",
+    "project_id": "chitchat-a6c4b",
+    "storage_bucket": "chitchat-a6c4b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:231018346566:android:86adcedd15b88c35b2f247",
+        "android_client_info": {
+          "package_name": "com.example.Start_Flutter"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "231018346566-nlqtb9jb1evcqdnnefa5km1jivct3vuo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBU2lxd7J1qRL0uKq61pAanxEJ_GfU31fU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "231018346566-nlqtb9jb1evcqdnnefa5km1jivct3vuo.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "231018346566-8eiqc6kd2ss8r4j22pqmr5cl1map5ghd.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.flutter.firebase.example.flutterfirestore"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
